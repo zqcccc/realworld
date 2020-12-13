@@ -7,7 +7,7 @@
         <nuxt-link
           class="navbar-brand"
           to="/"
-        >Home</nuxt-link>
+        >HOME</nuxt-link>
         <ul class="nav navbar-nav pull-xs-right">
           <li class="nav-item">
             <!-- Add "active" class when you're on that page" -->
