@@ -16,7 +16,7 @@
               class="nav-link"
               to="/"
               exact
-            >Home</nuxt-link>
+            >HOME</nuxt-link>
           </li>
           <template v-if="user">
             <li class="nav-item">
